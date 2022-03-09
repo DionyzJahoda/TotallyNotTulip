@@ -1,0 +1,8 @@
+{
+  "/etc/issue.net": "Ubuntu 20.04.3 LTS",
+  "commandLine": [
+    "/usr/bin/fdroid update"
+  ],
+  "startTimestamp": 1646864551000,
+  "subcommand": "update"
+}
